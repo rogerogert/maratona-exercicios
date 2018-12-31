@@ -6,4 +6,5 @@ Repositório com exercícios comuns em maratonas de programação
 
 * [Bits Trocados](https://br.spoj.com/problems/BIT/)
 * [Soma](https://br.spoj.com/problems/SOMA/)
+* [JPneu](https://br.spoj.com/problems/JPNEU/)
 
