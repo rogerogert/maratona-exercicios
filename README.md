@@ -18,5 +18,5 @@ Exercícios tirados dos seguintes sites:
 ### Neps Academy
 * [Ordenação Simples](https://neps.academy/problem/176)
   * O Neps acusa 'tempo limite excedido' na execução do algoritmo desenvolvido (selection sort).
-  * [ ] Implementar algum algoritmo de ordenação mais rápido que o selection sort.
+    * [ ] Implementar algum algoritmo de ordenação mais rápido que o selection sort.
 
